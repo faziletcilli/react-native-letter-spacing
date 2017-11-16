@@ -1,0 +1,25 @@
+{
+  "name": "react-native-letter-spacing",
+  "version": "0.0.5",
+  "description": "React-native text component with letter spacing. Works on both platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faziletcilli/react-native-letter-spacing.git"
+  },
+  "keywords": [
+    "react-native",
+    "letter",
+    "spacing",
+    "android"
+  ],
+  "author": "Fazilet Çilli <faziletcilli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faziletcilli/react-native-letter-spacing/issues"
+  },
+  "homepage": "https://github.com/faziletcilli/react-native-letter-spacing#readme"
+}
