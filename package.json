@@ -1,6 +1,6 @@
 {
   "name": "react-native-letter-spacing",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "React-native text component with letter spacing. Works on both platforms",
   "main": "index.js",
   "scripts": {
