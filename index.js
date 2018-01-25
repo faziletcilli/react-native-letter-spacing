@@ -40,7 +40,7 @@ export default class extends Component {
                                 key={ind}>
                                 {
                                     i.map((j, index) => <Text
-                                        style={[style, style.text, index > 0 && {marginLeft: letterSpacing}]}
+                                        style={[style, index > 0 && {marginLeft: letterSpacing}]}
                                         key={index}>{j}</Text>)
                                 }
                             </View>
